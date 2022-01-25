@@ -1,0 +1,152 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#ul1 li {
+              font-size: 20px;
+              float: left;
+              margin: 5px;
+              list-style-type: none;
+              width: 220px;
+              padding: 10px;
+              text-align: center;
+              border-top-right-radius: 10px;
+              border-bottom-left-radius: 10px;
+              border-top-left-radius: 10px;
+              border-bottom-right-radius: 10px; 
+              box-shadow: 2px solid black;
+              font-family: cursive, sans-serif;
+                }
+
+    #ul1 li a{
+      text-decoration: none;
+    }
+        #ul1 li:hover {
+               background: red;
+               color: rgb(255, 255, 255);
+               }       
+#container {
+       background: white;
+       width: 1300px;
+       height: 600px;
+}
+    #header {
+    	width: 1360px;
+    	height: 75px;
+    	background: lightblue;
+    	color: white;
+    	text-align: center;
+    }
+    #nav, #nav2 {
+    	width: 1360px;
+    	height: 50px;
+    	background: white;
+    	text-align: center;
+    }
+   
+    #footer {
+    	width: 1350px;
+    	height: 40px;
+      color: solid black;
+    	background: lightblue;
+      padding: 0px;
+      margin: 0px;
+      text-align: center;
+    }
+
+    #list {
+    	float: left;
+    	list-style-type: 1;
+    	list-style-position: inside;
+      text-align: left;
+    }
+    #egr {
+    	text-align: left;
+    	color: bold italic black;
+
+    }
+    #img {
+    	width: 460px;
+    	height: 200px;
+    	float: right;
+      border-bottom-left-radius: 10px;
+      border-bottom-right-radius: 10px;
+      border-top-right-radius: 10px;
+      border-top-left-radius: 10px;
+    }
+    #containerimg {
+      width: 1350px;
+      height: 1500px;
+      background: silver;
+    } 
+    #containeraus {
+      width: 1350px;
+      height: 1500px;
+      background: lightblue;
+    }
+    #containernews {
+      width: 1350px;
+      height: 1500px;
+      background: white;
+    }
+    #container
+    #left {
+          
+    }
+    #P {
+      float: left;
+      text-align: left;
+      color: white;
+    }
+    #ict {
+      height: 300px;
+      width: 1360px;
+      float: right;
+      border-top-left-radius: 20px;
+      border-bottom-right-radius: 20px;
+      border-bottom-left-radius: 20px;
+      border-top-right-radius: 20px;
+      padding: 0px;
+      margin: 10px;
+
+    }
+    #sdcardimage{
+      float: center;
+    }
+    #com {
+      height: 380px;
+      width: 1360px;
+      float: right;
+      border-top-left-radius: 20px;
+      border-bottom-right-radius:20px;
+      border-bottom-left-radius: 20px;
+      border-top-right-radius: 20px;
+      padding: 0px;
+      margin: 10px;
+    }
+    #header3, #header5 {
+      width: 1350px;
+      height: 50px;
+      background: gray;
+      text-align: center;
+    }
+    #header4 {
+      width: 1350px;
+      height: 50px;
+      background: lightblue;
+      text-align: center;
+    }
+    #pre {
+      text-align: center;
+      float: center;
+    }
+    #headerT {
+      text-align: center;
+    }
+    #t {
+      text-align: center;
+      float: middle;
+    }
+    #k {
+      float: right;
+    }
